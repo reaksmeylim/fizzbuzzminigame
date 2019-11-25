@@ -11,7 +11,7 @@ This little program is written by using [Python](https://www.python.org/).
 Navigate to the folder.
 
 ```sh
-$ cd FizzBuzz
+$ cd fizzbuzzminigame
 ```
 
 Run by using Python command
